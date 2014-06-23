@@ -10,7 +10,7 @@ import core.rendering.Renderer;
 /** An animation designed to illustrate the color coding possible.   
  * We also test ways to color by region and also set flow velocity by region
  * (as opposed to setting color and flow by the magnitude of the field).  
- * keeisi 4:19
+ * 
  * @author John Belcher
  * @version 1.0
  */
