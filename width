@@ -1,0 +1,1 @@
+widthct*Math.sqrt(1.+Math.pow((1.*height)/(1.*width),2);
