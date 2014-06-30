@@ -35,7 +35,7 @@ public class SwinginglDipoleRadiationAnimation {
 		    //  halfwidthct = 2. in Constants.java 
 		    int Nframesdelay =10;
 		    int Nframesafter = 10;
-		    double widthctdiagonal = widthct*Math.sqrt(1.+height/width);
+		    double widthctdiagonal = widthct*Math.sqrt(1.+Math.pow((1.height)/(1.width),2));
 			double Timetotal = ((1.*width)/(1.*widthct))*(1.*widthctdiagonal/2.+cTperiod)/(1.-(Nframesdelay*1.+Nframesafter*1.)/(frames*1.-1.));
 		    double Tperiod = 1.*width/(1.*widthct*Constants.c);
 		//	double Timetotal = (widthct/2.)/(1.-(Nframesdelay*1.+Nframesafter*1.)/(frames*1.-1.));
