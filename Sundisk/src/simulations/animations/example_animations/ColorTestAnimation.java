@@ -1,6 +1,6 @@
 /**
- * dg
- */
+ 
+ **/
 package simulations.animations.example_animations;
 
 import simulations.experiments.example_experiments.ColorTestExperiment;
