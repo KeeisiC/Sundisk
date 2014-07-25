@@ -1,5 +1,5 @@
 /** 
- * Test
+ 
  */
 package simulations.animations.electromagnetic_point_radiation;
 
@@ -10,7 +10,7 @@ import core.math.Vec3;
 import core.rendering.Renderer;
 
 /** 
- k
+ test2
  * @author john
  * radiation fields of a rotating non aligned dipole 
  */
